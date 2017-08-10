@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Input $@"
+echo "Input $1"
 echo "Testing for $2"
 pattern=$1
 case "$1" in
